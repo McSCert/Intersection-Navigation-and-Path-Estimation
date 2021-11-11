@@ -1,0 +1,442 @@
+Node: 1
+Right Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 0, y_srt_2 14, x_mid_1 3, y_mid_1 15.5, x_mid_2 0, y_mid_2 15.5, x_end_1 3, y_end_1 17, x_end_2 0, y_end_2 17
+Top Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 3, y_srt_2 17, x_mid_1 1.5, y_mid_1 14, x_mid_2 1.5, y_mid_2 17, x_end_1 0, y_end_1 14, x_end_2 0, y_end_2 17
+
+
+Node: 2
+Right Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 6, y_srt_2 14, x_mid_1 3, y_mid_1 15.5, x_mid_2 6, y_mid_2 15.5, x_end_1 3, y_end_1 17, x_end_2 6, y_end_2 17
+Top Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 3, y_srt_2 17, x_mid_1 4.5, y_mid_1 14, x_mid_2 4.5, y_mid_2 17, x_end_1 6, y_end_1 14, x_end_2 6, y_end_2 17
+
+
+Node: 3
+Right Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 0, y_srt_2 14, x_mid_1 3, y_mid_1 12.5, x_mid_2 0, y_mid_2 12.5, x_end_1 3, y_end_1 11, x_end_2 0, y_end_2 11
+Top Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 3, y_srt_2 11, x_mid_1 1.5, y_mid_1 14, x_mid_2 1.5, y_mid_2 11, x_end_1 0, y_end_1 14, x_end_2 0, y_end_2 11
+
+
+Node: 4
+Right Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 6, y_srt_2 14, x_mid_1 3, y_mid_1 12.5, x_mid_2 6, y_mid_2 12.5, x_end_1 3, y_end_1 11, x_end_2 6, y_end_2 11
+Top Rd Type: Within, x_srt_1 3, y_srt_1 14, x_srt_2 3, y_srt_2 11, x_mid_1 4.5, y_mid_1 14, x_mid_2 4.5, y_mid_2 11, x_end_1 6, y_end_1 14, x_end_2 6, y_end_2 11
+
+
+Node: 5, Type: At, x_srt_1 6, y_srt_1 14, x_srt_2 8, y_srt_2 14, x_mid_1 6, y_mid_1 12.5, x_mid_2 8, y_mid_2 12.5, x_end_1 6, y_end_1 11, x_end_2 8, y_end_2 11
+
+
+Node: 6, Type: Exiting, x_srt_1 6, y_srt_1 14, x_srt_2 8, y_srt_2 14, x_mid_1 6, y_mid_1 15.5, x_mid_2 8, y_mid_2 15.5, x_end_1 6, y_end_1 17, x_end_2 8, y_end_2 17
+
+
+Node: 7, Type: Exiting, x_srt_1 3, y_srt_1 17, x_srt_2 3, y_srt_2 19, x_mid_1 1.5, y_mid_1 17, x_mid_2 1.5, y_mid_2 19, x_end_1 0, y_end_1 17, x_end_2 0, y_end_2 19
+
+
+Node: 8, Type: At, x_srt_1 3, y_srt_1 17, x_srt_2 3, y_srt_2 19, x_mid_1 4.5, y_mid_1 17, x_mid_2 4.5, y_mid_2 19, x_end_1 6, y_end_1 17, x_end_2 6, y_end_2 19
+
+
+Node: 9, Type: At, x_srt_1 3, y_srt_1 11, x_srt_2 3, y_srt_2 9, x_mid_1 1.5, y_mid_1 11, x_mid_2 1.5, y_mid_2 9, x_end_1 0, y_end_1 11, x_end_2 0, y_end_2 9
+
+
+Node: 10, Type: Exiting, x_srt_1 3, y_srt_1 11, x_srt_2 3, y_srt_2 9, x_mid_1 4.5, y_mid_1 11, x_mid_2 4.5, y_mid_2 9, x_end_1 6, y_end_1 11, x_end_2 6, y_end_2 9
+
+
+Node: 11
+Right Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 20, y_srt_2 14, x_mid_1 23, y_mid_1 15.5, x_mid_2 20, y_mid_2 15.5, x_end_1 23, y_end_1 17, x_end_2 20, y_end_2 17
+Top Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 23, y_srt_2 17, x_mid_1 21.5, y_mid_1 14, x_mid_2 21.5, y_mid_2 17, x_end_1 20, y_end_1 14, x_end_2 20, y_end_2 17
+
+
+Node: 12
+Right Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 26, y_srt_2 14, x_mid_1 23, y_mid_1 15.5, x_mid_2 26, y_mid_2 15.5, x_end_1 23, y_end_1 17, x_end_2 26, y_end_2 17
+Top Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 23, y_srt_2 17, x_mid_1 24.5, y_mid_1 14, x_mid_2 24.5, y_mid_2 17, x_end_1 26, y_end_1 14, x_end_2 26, y_end_2 17
+
+
+Node: 13
+Right Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 20, y_srt_2 14, x_mid_1 23, y_mid_1 12.5, x_mid_2 20, y_mid_2 12.5, x_end_1 23, y_end_1 11, x_end_2 20, y_end_2 11
+Top Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 23, y_srt_2 11, x_mid_1 21.5, y_mid_1 14, x_mid_2 21.5, y_mid_2 11, x_end_1 20, y_end_1 14, x_end_2 20, y_end_2 11
+
+
+Node: 14
+Right Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 26, y_srt_2 14, x_mid_1 23, y_mid_1 12.5, x_mid_2 26, y_mid_2 12.5, x_end_1 23, y_end_1 11, x_end_2 26, y_end_2 11
+Top Rd Type: Within, x_srt_1 23, y_srt_1 14, x_srt_2 23, y_srt_2 11, x_mid_1 24.5, y_mid_1 14, x_mid_2 24.5, y_mid_2 11, x_end_1 26, y_end_1 14, x_end_2 26, y_end_2 11
+
+
+Node: 15, Type: Exiting, x_srt_1 20, y_srt_1 14, x_srt_2 18, y_srt_2 14, x_mid_1 20, y_mid_1 12.5, x_mid_2 18, y_mid_2 12.5, x_end_1 20, y_end_1 11, x_end_2 18, y_end_2 11
+
+
+Node: 16, Type: At, x_srt_1 20, y_srt_1 14, x_srt_2 18, y_srt_2 14, x_mid_1 20, y_mid_1 15.5, x_mid_2 18, y_mid_2 15.5, x_end_1 20, y_end_1 17, x_end_2 18, y_end_2 17
+
+
+Node: 17, Type: At, x_srt_1 26, y_srt_1 14, x_srt_2 28, y_srt_2 14, x_mid_1 26, y_mid_1 12.5, x_mid_2 28, y_mid_2 12.5, x_end_1 26, y_end_1 11, x_end_2 28, y_end_2 11
+
+
+Node: 18, Type: Exiting, x_srt_1 26, y_srt_1 14, x_srt_2 28, y_srt_2 14, x_mid_1 26, y_mid_1 15.5, x_mid_2 28, y_mid_2 15.5, x_end_1 26, y_end_1 17, x_end_2 28, y_end_2 17
+
+
+Node: 19, Type: Exiting, x_srt_1 23, y_srt_1 17, x_srt_2 23, y_srt_2 19, x_mid_1 21.5, y_mid_1 17, x_mid_2 21.5, y_mid_2 19, x_end_1 20, y_end_1 17, x_end_2 20, y_end_2 19
+
+
+Node: 20, Type: At, x_srt_1 23, y_srt_1 17, x_srt_2 23, y_srt_2 19, x_mid_1 24.5, y_mid_1 17, x_mid_2 24.5, y_mid_2 19, x_end_1 26, y_end_1 17, x_end_2 26, y_end_2 19
+
+
+Node: 21, Type: At, x_srt_1 23, y_srt_1 11, x_srt_2 23, y_srt_2 9, x_mid_1 21.5, y_mid_1 11, x_mid_2 21.5, y_mid_2 9, x_end_1 20, y_end_1 11, x_end_2 20, y_end_2 9
+
+
+Node: 22, Type: Exiting, x_srt_1 23, y_srt_1 11, x_srt_2 23, y_srt_2 9, x_mid_1 24.5, y_mid_1 11, x_mid_2 24.5, y_mid_2 9, x_end_1 26, y_end_1 11, x_end_2 26, y_end_2 9
+
+
+Node: 23
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 36.1, y_srt_2 14, x_mid_1 39.1, y_mid_1 15.5, x_mid_2 36.1, y_mid_2 15.5, x_end_1 39.1, y_end_1 17, x_end_2 36.1, y_end_2 17
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 39.1, y_srt_2 17, x_mid_1 37.6, y_mid_1 14, x_mid_2 37.6, y_mid_2 17, x_end_1 36.1, y_end_1 14, x_end_2 36.1, y_end_2 17
+
+
+Node: 24
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 42.1, y_srt_2 14, x_mid_1 39.1, y_mid_1 15.5, x_mid_2 42.1, y_mid_2 15.5, x_end_1 39.1, y_end_1 17, x_end_2 42.1, y_end_2 17
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 39.1, y_srt_2 17, x_mid_1 40.6, y_mid_1 14, x_mid_2 40.6, y_mid_2 17, x_end_1 42.1, y_end_1 14, x_end_2 42.1, y_end_2 17
+
+
+Node: 25
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 36.1, y_srt_2 14, x_mid_1 39.1, y_mid_1 12.5, x_mid_2 36.1, y_mid_2 12.5, x_end_1 39.1, y_end_1 11, x_end_2 36.1, y_end_2 11
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 39.1, y_srt_2 11, x_mid_1 37.6, y_mid_1 14, x_mid_2 37.6, y_mid_2 11, x_end_1 36.1, y_end_1 14, x_end_2 36.1, y_end_2 11
+
+
+Node: 26
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 42.1, y_srt_2 14, x_mid_1 39.1, y_mid_1 12.5, x_mid_2 42.1, y_mid_2 12.5, x_end_1 39.1, y_end_1 11, x_end_2 42.1, y_end_2 11
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 14, x_srt_2 39.1, y_srt_2 11, x_mid_1 40.6, y_mid_1 14, x_mid_2 40.6, y_mid_2 11, x_end_1 42.1, y_end_1 14, x_end_2 42.1, y_end_2 11
+
+
+Node: 27, Type: Exiting, x_srt_1 36.1, y_srt_1 14, x_srt_2 34.1, y_srt_2 14, x_mid_1 36.1, y_mid_1 12.5, x_mid_2 34.1, y_mid_2 12.5, x_end_1 36.1, y_end_1 11, x_end_2 34.1, y_end_2 11
+
+
+Node: 28, Type: At, x_srt_1 36.1, y_srt_1 14, x_srt_2 34.1, y_srt_2 14, x_mid_1 36.1, y_mid_1 15.5, x_mid_2 34.1, y_mid_2 15.5, x_end_1 36.1, y_end_1 17, x_end_2 34.1, y_end_2 17
+
+
+Node: 29, Type: At, x_srt_1 42.1, y_srt_1 14, x_srt_2 44.1, y_srt_2 14, x_mid_1 42.1, y_mid_1 12.5, x_mid_2 44.1, y_mid_2 12.5, x_end_1 42.1, y_end_1 11, x_end_2 44.1, y_end_2 11
+
+
+Node: 30, Type: Exiting, x_srt_1 42.1, y_srt_1 14, x_srt_2 44.1, y_srt_2 14, x_mid_1 42.1, y_mid_1 15.5, x_mid_2 44.1, y_mid_2 15.5, x_end_1 42.1, y_end_1 17, x_end_2 44.1, y_end_2 17
+
+
+Node: 31, Type: Exiting, x_srt_1 39.1, y_srt_1 17, x_srt_2 39.1, y_srt_2 19, x_mid_1 37.6, y_mid_1 17, x_mid_2 37.6, y_mid_2 19, x_end_1 36.1, y_end_1 17, x_end_2 36.1, y_end_2 19
+
+
+Node: 32, Type: At, x_srt_1 39.1, y_srt_1 17, x_srt_2 39.1, y_srt_2 19, x_mid_1 40.6, y_mid_1 17, x_mid_2 40.6, y_mid_2 19, x_end_1 42.1, y_end_1 17, x_end_2 42.1, y_end_2 19
+
+
+Node: 33, Type: At, x_srt_1 39.1, y_srt_1 11, x_srt_2 39.1, y_srt_2 9, x_mid_1 37.6, y_mid_1 11, x_mid_2 37.6, y_mid_2 9, x_end_1 36.1, y_end_1 11, x_end_2 36.1, y_end_2 9
+
+
+Node: 34, Type: Exiting, x_srt_1 39.1, y_srt_1 11, x_srt_2 39.1, y_srt_2 9, x_mid_1 40.6, y_mid_1 11, x_mid_2 40.6, y_mid_2 9, x_end_1 42.1, y_end_1 11, x_end_2 42.1, y_end_2 9
+
+
+Node: 35
+Right Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 57, y_srt_2 14, x_mid_1 60, y_mid_1 15.5, x_mid_2 57, y_mid_2 15.5, x_end_1 60, y_end_1 17, x_end_2 57, y_end_2 17
+Top Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 60, y_srt_2 17, x_mid_1 58.5, y_mid_1 14, x_mid_2 58.5, y_mid_2 17, x_end_1 57, y_end_1 14, x_end_2 57, y_end_2 17
+
+
+Node: 36
+Right Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 63, y_srt_2 14, x_mid_1 60, y_mid_1 15.5, x_mid_2 63, y_mid_2 15.5, x_end_1 60, y_end_1 17, x_end_2 63, y_end_2 17
+Top Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 60, y_srt_2 17, x_mid_1 61.5, y_mid_1 14, x_mid_2 61.5, y_mid_2 17, x_end_1 63, y_end_1 14, x_end_2 63, y_end_2 17
+
+
+Node: 37
+Right Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 57, y_srt_2 14, x_mid_1 60, y_mid_1 12.5, x_mid_2 57, y_mid_2 12.5, x_end_1 60, y_end_1 11, x_end_2 57, y_end_2 11
+Top Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 60, y_srt_2 11, x_mid_1 58.5, y_mid_1 14, x_mid_2 58.5, y_mid_2 11, x_end_1 57, y_end_1 14, x_end_2 57, y_end_2 11
+
+
+Node: 38
+Right Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 63, y_srt_2 14, x_mid_1 60, y_mid_1 12.5, x_mid_2 63, y_mid_2 12.5, x_end_1 60, y_end_1 11, x_end_2 63, y_end_2 11
+Top Rd Type: Within, x_srt_1 60, y_srt_1 14, x_srt_2 60, y_srt_2 11, x_mid_1 61.5, y_mid_1 14, x_mid_2 61.5, y_mid_2 11, x_end_1 63, y_end_1 14, x_end_2 63, y_end_2 11
+
+
+Node: 39, Type: Exiting, x_srt_1 57, y_srt_1 14, x_srt_2 55, y_srt_2 14, x_mid_1 57, y_mid_1 12.5, x_mid_2 55, y_mid_2 12.5, x_end_1 57, y_end_1 11, x_end_2 55, y_end_2 11
+
+
+Node: 40, Type: At, x_srt_1 57, y_srt_1 14, x_srt_2 55, y_srt_2 14, x_mid_1 57, y_mid_1 15.5, x_mid_2 55, y_mid_2 15.5, x_end_1 57, y_end_1 17, x_end_2 55, y_end_2 17
+
+
+Node: 41, Type: Exiting, x_srt_1 60, y_srt_1 17, x_srt_2 60, y_srt_2 19, x_mid_1 58.5, y_mid_1 17, x_mid_2 58.5, y_mid_2 19, x_end_1 57, y_end_1 17, x_end_2 57, y_end_2 19
+
+
+Node: 42, Type: At, x_srt_1 60, y_srt_1 17, x_srt_2 60, y_srt_2 19, x_mid_1 61.5, y_mid_1 17, x_mid_2 61.5, y_mid_2 19, x_end_1 63, y_end_1 17, x_end_2 63, y_end_2 19
+
+
+Node: 43, Type: At, x_srt_1 60, y_srt_1 11, x_srt_2 60, y_srt_2 9, x_mid_1 58.5, y_mid_1 11, x_mid_2 58.5, y_mid_2 9, x_end_1 57, y_end_1 11, x_end_2 57, y_end_2 9
+
+
+Node: 44, Type: Exiting, x_srt_1 60, y_srt_1 11, x_srt_2 60, y_srt_2 9, x_mid_1 61.5, y_mid_1 11, x_mid_2 61.5, y_mid_2 9, x_end_1 63, y_end_1 11, x_end_2 63, y_end_2 9
+
+
+Node: 45
+Right Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 0, y_srt_2 3, x_mid_1 3, y_mid_1 4.5, x_mid_2 0, y_mid_2 4.5, x_end_1 3, y_end_1 6, x_end_2 0, y_end_2 6
+Top Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 3, y_srt_2 6, x_mid_1 1.5, y_mid_1 3, x_mid_2 1.5, y_mid_2 6, x_end_1 0, y_end_1 3, x_end_2 0, y_end_2 6
+
+
+Node: 46
+Right Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 6, y_srt_2 3, x_mid_1 3, y_mid_1 4.5, x_mid_2 6, y_mid_2 4.5, x_end_1 3, y_end_1 6, x_end_2 6, y_end_2 6
+Top Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 3, y_srt_2 6, x_mid_1 4.5, y_mid_1 3, x_mid_2 4.5, y_mid_2 6, x_end_1 6, y_end_1 3, x_end_2 6, y_end_2 6
+
+
+Node: 47
+Right Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 0, y_srt_2 3, x_mid_1 3, y_mid_1 1.5, x_mid_2 0, y_mid_2 1.5, x_end_1 3, y_end_1 0, x_end_2 0, y_end_2 0
+Top Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 3, y_srt_2 0, x_mid_1 1.5, y_mid_1 3, x_mid_2 1.5, y_mid_2 0, x_end_1 0, y_end_1 3, x_end_2 0, y_end_2 0
+
+
+Node: 48
+Right Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 6, y_srt_2 3, x_mid_1 3, y_mid_1 1.5, x_mid_2 6, y_mid_2 1.5, x_end_1 3, y_end_1 0, x_end_2 6, y_end_2 0
+Top Rd Type: Within, x_srt_1 3, y_srt_1 3, x_srt_2 3, y_srt_2 0, x_mid_1 4.5, y_mid_1 3, x_mid_2 4.5, y_mid_2 0, x_end_1 6, y_end_1 3, x_end_2 6, y_end_2 0
+
+
+Node: 49, Type: At, x_srt_1 6, y_srt_1 3, x_srt_2 8, y_srt_2 3, x_mid_1 6, y_mid_1 1.5, x_mid_2 8, y_mid_2 1.5, x_end_1 6, y_end_1 0, x_end_2 8, y_end_2 0
+
+
+Node: 50, Type: Exiting, x_srt_1 6, y_srt_1 3, x_srt_2 8, y_srt_2 3, x_mid_1 6, y_mid_1 4.5, x_mid_2 8, y_mid_2 4.5, x_end_1 6, y_end_1 6, x_end_2 8, y_end_2 6
+
+
+Node: 51, Type: Exiting, x_srt_1 3, y_srt_1 6, x_srt_2 3, y_srt_2 8, x_mid_1 1.5, y_mid_1 6, x_mid_2 1.5, y_mid_2 8, x_end_1 0, y_end_1 6, x_end_2 0, y_end_2 8
+
+
+Node: 52, Type: At, x_srt_1 3, y_srt_1 6, x_srt_2 3, y_srt_2 8, x_mid_1 4.5, y_mid_1 6, x_mid_2 4.5, y_mid_2 8, x_end_1 6, y_end_1 6, x_end_2 6, y_end_2 8
+
+
+Node: 53
+Right Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 20, y_srt_2 3, x_mid_1 23, y_mid_1 4.5, x_mid_2 20, y_mid_2 4.5, x_end_1 23, y_end_1 6, x_end_2 20, y_end_2 6
+Top Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 23, y_srt_2 6, x_mid_1 21.5, y_mid_1 3, x_mid_2 21.5, y_mid_2 6, x_end_1 20, y_end_1 3, x_end_2 20, y_end_2 6
+
+
+Node: 54
+Right Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 26, y_srt_2 3, x_mid_1 23, y_mid_1 4.5, x_mid_2 26, y_mid_2 4.5, x_end_1 23, y_end_1 6, x_end_2 26, y_end_2 6
+Top Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 23, y_srt_2 6, x_mid_1 24.5, y_mid_1 3, x_mid_2 24.5, y_mid_2 6, x_end_1 26, y_end_1 3, x_end_2 26, y_end_2 6
+
+
+Node: 55
+Right Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 20, y_srt_2 3, x_mid_1 23, y_mid_1 1.5, x_mid_2 20, y_mid_2 1.5, x_end_1 23, y_end_1 0, x_end_2 20, y_end_2 0
+Top Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 23, y_srt_2 0, x_mid_1 21.5, y_mid_1 3, x_mid_2 21.5, y_mid_2 0, x_end_1 20, y_end_1 3, x_end_2 20, y_end_2 0
+
+
+Node: 56
+Right Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 26, y_srt_2 3, x_mid_1 23, y_mid_1 1.5, x_mid_2 26, y_mid_2 1.5, x_end_1 23, y_end_1 0, x_end_2 26, y_end_2 0
+Top Rd Type: Within, x_srt_1 23, y_srt_1 3, x_srt_2 23, y_srt_2 0, x_mid_1 24.5, y_mid_1 3, x_mid_2 24.5, y_mid_2 0, x_end_1 26, y_end_1 3, x_end_2 26, y_end_2 0
+
+
+Node: 57, Type: Exiting, x_srt_1 20, y_srt_1 3, x_srt_2 18, y_srt_2 3, x_mid_1 20, y_mid_1 1.5, x_mid_2 18, y_mid_2 1.5, x_end_1 20, y_end_1 0, x_end_2 18, y_end_2 0
+
+
+Node: 58, Type: At, x_srt_1 20, y_srt_1 3, x_srt_2 18, y_srt_2 3, x_mid_1 20, y_mid_1 4.5, x_mid_2 18, y_mid_2 4.5, x_end_1 20, y_end_1 6, x_end_2 18, y_end_2 6
+
+
+Node: 59, Type: At, x_srt_1 26, y_srt_1 3, x_srt_2 28, y_srt_2 3, x_mid_1 26, y_mid_1 1.5, x_mid_2 28, y_mid_2 1.5, x_end_1 26, y_end_1 0, x_end_2 28, y_end_2 0
+
+
+Node: 60, Type: Exiting, x_srt_1 26, y_srt_1 3, x_srt_2 28, y_srt_2 3, x_mid_1 26, y_mid_1 4.5, x_mid_2 28, y_mid_2 4.5, x_end_1 26, y_end_1 6, x_end_2 28, y_end_2 6
+
+
+Node: 61, Type: Exiting, x_srt_1 23, y_srt_1 6, x_srt_2 23, y_srt_2 8, x_mid_1 21.5, y_mid_1 6, x_mid_2 21.5, y_mid_2 8, x_end_1 20, y_end_1 6, x_end_2 20, y_end_2 8
+
+
+Node: 62, Type: At, x_srt_1 23, y_srt_1 6, x_srt_2 23, y_srt_2 8, x_mid_1 24.5, y_mid_1 6, x_mid_2 24.5, y_mid_2 8, x_end_1 26, y_end_1 6, x_end_2 26, y_end_2 8
+
+
+Node: 63
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 36.1, y_srt_2 3, x_mid_1 39.1, y_mid_1 4.5, x_mid_2 36.1, y_mid_2 4.5, x_end_1 39.1, y_end_1 6, x_end_2 36.1, y_end_2 6
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 39.1, y_srt_2 6, x_mid_1 37.6, y_mid_1 3, x_mid_2 37.6, y_mid_2 6, x_end_1 36.1, y_end_1 3, x_end_2 36.1, y_end_2 6
+
+
+Node: 64
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 42.1, y_srt_2 3, x_mid_1 39.1, y_mid_1 4.5, x_mid_2 42.1, y_mid_2 4.5, x_end_1 39.1, y_end_1 6, x_end_2 42.1, y_end_2 6
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 39.1, y_srt_2 6, x_mid_1 40.6, y_mid_1 3, x_mid_2 40.6, y_mid_2 6, x_end_1 42.1, y_end_1 3, x_end_2 42.1, y_end_2 6
+
+
+Node: 65
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 36.1, y_srt_2 3, x_mid_1 39.1, y_mid_1 1.5, x_mid_2 36.1, y_mid_2 1.5, x_end_1 39.1, y_end_1 0, x_end_2 36.1, y_end_2 0
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 39.1, y_srt_2 0, x_mid_1 37.6, y_mid_1 3, x_mid_2 37.6, y_mid_2 0, x_end_1 36.1, y_end_1 3, x_end_2 36.1, y_end_2 0
+
+
+Node: 66
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 42.1, y_srt_2 3, x_mid_1 39.1, y_mid_1 1.5, x_mid_2 42.1, y_mid_2 1.5, x_end_1 39.1, y_end_1 0, x_end_2 42.1, y_end_2 0
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 3, x_srt_2 39.1, y_srt_2 0, x_mid_1 40.6, y_mid_1 3, x_mid_2 40.6, y_mid_2 0, x_end_1 42.1, y_end_1 3, x_end_2 42.1, y_end_2 0
+
+
+Node: 67, Type: Exiting, x_srt_1 36.1, y_srt_1 3, x_srt_2 34.1, y_srt_2 3, x_mid_1 36.1, y_mid_1 1.5, x_mid_2 34.1, y_mid_2 1.5, x_end_1 36.1, y_end_1 0, x_end_2 34.1, y_end_2 0
+
+
+Node: 68, Type: At, x_srt_1 36.1, y_srt_1 3, x_srt_2 34.1, y_srt_2 3, x_mid_1 36.1, y_mid_1 4.5, x_mid_2 34.1, y_mid_2 4.5, x_end_1 36.1, y_end_1 6, x_end_2 34.1, y_end_2 6
+
+
+Node: 69, Type: At, x_srt_1 42.1, y_srt_1 3, x_srt_2 44.1, y_srt_2 3, x_mid_1 42.1, y_mid_1 1.5, x_mid_2 44.1, y_mid_2 1.5, x_end_1 42.1, y_end_1 0, x_end_2 44.1, y_end_2 0
+
+
+Node: 70, Type: Exiting, x_srt_1 42.1, y_srt_1 3, x_srt_2 44.1, y_srt_2 3, x_mid_1 42.1, y_mid_1 4.5, x_mid_2 44.1, y_mid_2 4.5, x_end_1 42.1, y_end_1 6, x_end_2 44.1, y_end_2 6
+
+
+Node: 71, Type: Exiting, x_srt_1 39.1, y_srt_1 6, x_srt_2 39.1, y_srt_2 8, x_mid_1 37.6, y_mid_1 6, x_mid_2 37.6, y_mid_2 8, x_end_1 36.1, y_end_1 6, x_end_2 36.1, y_end_2 8
+
+
+Node: 72, Type: At, x_srt_1 39.1, y_srt_1 6, x_srt_2 39.1, y_srt_2 8, x_mid_1 40.6, y_mid_1 6, x_mid_2 40.6, y_mid_2 8, x_end_1 42.1, y_end_1 6, x_end_2 42.1, y_end_2 8
+
+
+Node: 73
+Right Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 57, y_srt_2 3, x_mid_1 60, y_mid_1 4.5, x_mid_2 57, y_mid_2 4.5, x_end_1 60, y_end_1 6, x_end_2 57, y_end_2 6
+Top Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 60, y_srt_2 6, x_mid_1 58.5, y_mid_1 3, x_mid_2 58.5, y_mid_2 6, x_end_1 57, y_end_1 3, x_end_2 57, y_end_2 6
+
+
+Node: 74
+Right Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 63, y_srt_2 3, x_mid_1 60, y_mid_1 4.5, x_mid_2 63, y_mid_2 4.5, x_end_1 60, y_end_1 6, x_end_2 63, y_end_2 6
+Top Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 60, y_srt_2 6, x_mid_1 61.5, y_mid_1 3, x_mid_2 61.5, y_mid_2 6, x_end_1 63, y_end_1 3, x_end_2 63, y_end_2 6
+
+
+Node: 75
+Right Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 57, y_srt_2 3, x_mid_1 60, y_mid_1 1.5, x_mid_2 57, y_mid_2 1.5, x_end_1 60, y_end_1 0, x_end_2 57, y_end_2 0
+Top Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 60, y_srt_2 0, x_mid_1 58.5, y_mid_1 3, x_mid_2 58.5, y_mid_2 0, x_end_1 57, y_end_1 3, x_end_2 57, y_end_2 0
+
+
+Node: 76
+Right Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 63, y_srt_2 3, x_mid_1 60, y_mid_1 1.5, x_mid_2 63, y_mid_2 1.5, x_end_1 60, y_end_1 0, x_end_2 63, y_end_2 0
+Top Rd Type: Within, x_srt_1 60, y_srt_1 3, x_srt_2 60, y_srt_2 0, x_mid_1 61.5, y_mid_1 3, x_mid_2 61.5, y_mid_2 0, x_end_1 63, y_end_1 3, x_end_2 63, y_end_2 0
+
+
+Node: 77, Type: Exiting, x_srt_1 57, y_srt_1 3, x_srt_2 55, y_srt_2 3, x_mid_1 57, y_mid_1 1.5, x_mid_2 55, y_mid_2 1.5, x_end_1 57, y_end_1 0, x_end_2 55, y_end_2 0
+
+
+Node: 78, Type: At, x_srt_1 57, y_srt_1 3, x_srt_2 55, y_srt_2 3, x_mid_1 57, y_mid_1 4.5, x_mid_2 55, y_mid_2 4.5, x_end_1 57, y_end_1 6, x_end_2 55, y_end_2 6
+
+
+Node: 79, Type: Exiting, x_srt_1 60, y_srt_1 6, x_srt_2 60, y_srt_2 8, x_mid_1 58.5, y_mid_1 6, x_mid_2 58.5, y_mid_2 8, x_end_1 57, y_end_1 6, x_end_2 57, y_end_2 8
+
+
+Node: 80, Type: At, x_srt_1 60, y_srt_1 6, x_srt_2 60, y_srt_2 8, x_mid_1 61.5, y_mid_1 6, x_mid_2 61.5, y_mid_2 8, x_end_1 63, y_end_1 6, x_end_2 63, y_end_2 8
+
+
+Node: 81
+Right Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 0, y_srt_2 25, x_mid_1 3, y_mid_1 26.5, x_mid_2 0, y_mid_2 26.5, x_end_1 3, y_end_1 28, x_end_2 0, y_end_2 28
+Top Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 3, y_srt_2 28, x_mid_1 1.5, y_mid_1 25, x_mid_2 1.5, y_mid_2 28, x_end_1 0, y_end_1 25, x_end_2 0, y_end_2 28
+
+
+Node: 82
+Right Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 6, y_srt_2 25, x_mid_1 3, y_mid_1 26.5, x_mid_2 6, y_mid_2 26.5, x_end_1 3, y_end_1 28, x_end_2 6, y_end_2 28
+Top Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 3, y_srt_2 28, x_mid_1 4.5, y_mid_1 25, x_mid_2 4.5, y_mid_2 28, x_end_1 6, y_end_1 25, x_end_2 6, y_end_2 28
+
+
+Node: 83
+Right Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 0, y_srt_2 25, x_mid_1 3, y_mid_1 23.5, x_mid_2 0, y_mid_2 23.5, x_end_1 3, y_end_1 22, x_end_2 0, y_end_2 22
+Top Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 3, y_srt_2 22, x_mid_1 1.5, y_mid_1 25, x_mid_2 1.5, y_mid_2 22, x_end_1 0, y_end_1 25, x_end_2 0, y_end_2 22
+
+
+Node: 84
+Right Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 6, y_srt_2 25, x_mid_1 3, y_mid_1 23.5, x_mid_2 6, y_mid_2 23.5, x_end_1 3, y_end_1 22, x_end_2 6, y_end_2 22
+Top Rd Type: Within, x_srt_1 3, y_srt_1 25, x_srt_2 3, y_srt_2 22, x_mid_1 4.5, y_mid_1 25, x_mid_2 4.5, y_mid_2 22, x_end_1 6, y_end_1 25, x_end_2 6, y_end_2 22
+
+
+Node: 85, Type: At, x_srt_1 6, y_srt_1 25, x_srt_2 8, y_srt_2 25, x_mid_1 6, y_mid_1 23.5, x_mid_2 8, y_mid_2 23.5, x_end_1 6, y_end_1 22, x_end_2 8, y_end_2 22
+
+
+Node: 86, Type: Exiting, x_srt_1 6, y_srt_1 25, x_srt_2 8, y_srt_2 25, x_mid_1 6, y_mid_1 26.5, x_mid_2 8, y_mid_2 26.5, x_end_1 6, y_end_1 28, x_end_2 8, y_end_2 28
+
+
+Node: 87, Type: At, x_srt_1 3, y_srt_1 22, x_srt_2 3, y_srt_2 20, x_mid_1 1.5, y_mid_1 22, x_mid_2 1.5, y_mid_2 20, x_end_1 0, y_end_1 22, x_end_2 0, y_end_2 20
+
+
+Node: 88, Type: Exiting, x_srt_1 3, y_srt_1 22, x_srt_2 3, y_srt_2 20, x_mid_1 4.5, y_mid_1 22, x_mid_2 4.5, y_mid_2 20, x_end_1 6, y_end_1 22, x_end_2 6, y_end_2 20
+
+
+Node: 89
+Right Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 20, y_srt_2 25, x_mid_1 23, y_mid_1 26.5, x_mid_2 20, y_mid_2 26.5, x_end_1 23, y_end_1 28, x_end_2 20, y_end_2 28
+Top Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 23, y_srt_2 28, x_mid_1 21.5, y_mid_1 25, x_mid_2 21.5, y_mid_2 28, x_end_1 20, y_end_1 25, x_end_2 20, y_end_2 28
+
+
+Node: 90
+Right Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 26, y_srt_2 25, x_mid_1 23, y_mid_1 26.5, x_mid_2 26, y_mid_2 26.5, x_end_1 23, y_end_1 28, x_end_2 26, y_end_2 28
+Top Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 23, y_srt_2 28, x_mid_1 24.5, y_mid_1 25, x_mid_2 24.5, y_mid_2 28, x_end_1 26, y_end_1 25, x_end_2 26, y_end_2 28
+
+
+Node: 91
+Right Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 20, y_srt_2 25, x_mid_1 23, y_mid_1 23.5, x_mid_2 20, y_mid_2 23.5, x_end_1 23, y_end_1 22, x_end_2 20, y_end_2 22
+Top Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 23, y_srt_2 22, x_mid_1 21.5, y_mid_1 25, x_mid_2 21.5, y_mid_2 22, x_end_1 20, y_end_1 25, x_end_2 20, y_end_2 22
+
+
+Node: 92
+Right Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 26, y_srt_2 25, x_mid_1 23, y_mid_1 23.5, x_mid_2 26, y_mid_2 23.5, x_end_1 23, y_end_1 22, x_end_2 26, y_end_2 22
+Top Rd Type: Within, x_srt_1 23, y_srt_1 25, x_srt_2 23, y_srt_2 22, x_mid_1 24.5, y_mid_1 25, x_mid_2 24.5, y_mid_2 22, x_end_1 26, y_end_1 25, x_end_2 26, y_end_2 22
+
+
+Node: 93, Type: Exiting, x_srt_1 20, y_srt_1 25, x_srt_2 18, y_srt_2 25, x_mid_1 20, y_mid_1 23.5, x_mid_2 18, y_mid_2 23.5, x_end_1 20, y_end_1 22, x_end_2 18, y_end_2 22
+
+
+Node: 94, Type: At, x_srt_1 20, y_srt_1 25, x_srt_2 18, y_srt_2 25, x_mid_1 20, y_mid_1 26.5, x_mid_2 18, y_mid_2 26.5, x_end_1 20, y_end_1 28, x_end_2 18, y_end_2 28
+
+
+Node: 95, Type: At, x_srt_1 26, y_srt_1 25, x_srt_2 28, y_srt_2 25, x_mid_1 26, y_mid_1 23.5, x_mid_2 28, y_mid_2 23.5, x_end_1 26, y_end_1 22, x_end_2 28, y_end_2 22
+
+
+Node: 96, Type: Exiting, x_srt_1 26, y_srt_1 25, x_srt_2 28, y_srt_2 25, x_mid_1 26, y_mid_1 26.5, x_mid_2 28, y_mid_2 26.5, x_end_1 26, y_end_1 28, x_end_2 28, y_end_2 28
+
+
+Node: 97, Type: At, x_srt_1 23, y_srt_1 22, x_srt_2 23, y_srt_2 20, x_mid_1 21.5, y_mid_1 22, x_mid_2 21.5, y_mid_2 20, x_end_1 20, y_end_1 22, x_end_2 20, y_end_2 20
+
+
+Node: 98, Type: Exiting, x_srt_1 23, y_srt_1 22, x_srt_2 23, y_srt_2 20, x_mid_1 24.5, y_mid_1 22, x_mid_2 24.5, y_mid_2 20, x_end_1 26, y_end_1 22, x_end_2 26, y_end_2 20
+
+
+Node: 99
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 36.1, y_srt_2 25, x_mid_1 39.1, y_mid_1 26.5, x_mid_2 36.1, y_mid_2 26.5, x_end_1 39.1, y_end_1 28, x_end_2 36.1, y_end_2 28
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 39.1, y_srt_2 28, x_mid_1 37.6, y_mid_1 25, x_mid_2 37.6, y_mid_2 28, x_end_1 36.1, y_end_1 25, x_end_2 36.1, y_end_2 28
+
+
+Node: 100
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 42.1, y_srt_2 25, x_mid_1 39.1, y_mid_1 26.5, x_mid_2 42.1, y_mid_2 26.5, x_end_1 39.1, y_end_1 28, x_end_2 42.1, y_end_2 28
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 39.1, y_srt_2 28, x_mid_1 40.6, y_mid_1 25, x_mid_2 40.6, y_mid_2 28, x_end_1 42.1, y_end_1 25, x_end_2 42.1, y_end_2 28
+
+
+Node: 101
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 36.1, y_srt_2 25, x_mid_1 39.1, y_mid_1 23.5, x_mid_2 36.1, y_mid_2 23.5, x_end_1 39.1, y_end_1 22, x_end_2 36.1, y_end_2 22
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 39.1, y_srt_2 22, x_mid_1 37.6, y_mid_1 25, x_mid_2 37.6, y_mid_2 22, x_end_1 36.1, y_end_1 25, x_end_2 36.1, y_end_2 22
+
+
+Node: 102
+Right Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 42.1, y_srt_2 25, x_mid_1 39.1, y_mid_1 23.5, x_mid_2 42.1, y_mid_2 23.5, x_end_1 39.1, y_end_1 22, x_end_2 42.1, y_end_2 22
+Top Rd Type: Within, x_srt_1 39.1, y_srt_1 25, x_srt_2 39.1, y_srt_2 22, x_mid_1 40.6, y_mid_1 25, x_mid_2 40.6, y_mid_2 22, x_end_1 42.1, y_end_1 25, x_end_2 42.1, y_end_2 22
+
+
+Node: 103, Type: Exiting, x_srt_1 36.1, y_srt_1 25, x_srt_2 34.1, y_srt_2 25, x_mid_1 36.1, y_mid_1 23.5, x_mid_2 34.1, y_mid_2 23.5, x_end_1 36.1, y_end_1 22, x_end_2 34.1, y_end_2 22
+
+
+Node: 104, Type: At, x_srt_1 36.1, y_srt_1 25, x_srt_2 34.1, y_srt_2 25, x_mid_1 36.1, y_mid_1 26.5, x_mid_2 34.1, y_mid_2 26.5, x_end_1 36.1, y_end_1 28, x_end_2 34.1, y_end_2 28
+
+
+Node: 105, Type: At, x_srt_1 42.1, y_srt_1 25, x_srt_2 44.1, y_srt_2 25, x_mid_1 42.1, y_mid_1 23.5, x_mid_2 44.1, y_mid_2 23.5, x_end_1 42.1, y_end_1 22, x_end_2 44.1, y_end_2 22
+
+
+Node: 106, Type: Exiting, x_srt_1 42.1, y_srt_1 25, x_srt_2 44.1, y_srt_2 25, x_mid_1 42.1, y_mid_1 26.5, x_mid_2 44.1, y_mid_2 26.5, x_end_1 42.1, y_end_1 28, x_end_2 44.1, y_end_2 28
+
+
+Node: 107, Type: At, x_srt_1 39.1, y_srt_1 22, x_srt_2 39.1, y_srt_2 20, x_mid_1 37.6, y_mid_1 22, x_mid_2 37.6, y_mid_2 20, x_end_1 36.1, y_end_1 22, x_end_2 36.1, y_end_2 20
+
+
+Node: 108, Type: Exiting, x_srt_1 39.1, y_srt_1 22, x_srt_2 39.1, y_srt_2 20, x_mid_1 40.6, y_mid_1 22, x_mid_2 40.6, y_mid_2 20, x_end_1 42.1, y_end_1 22, x_end_2 42.1, y_end_2 20
+
+
+Node: 109
+Right Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 57, y_srt_2 25, x_mid_1 60, y_mid_1 26.5, x_mid_2 57, y_mid_2 26.5, x_end_1 60, y_end_1 28, x_end_2 57, y_end_2 28
+Top Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 60, y_srt_2 28, x_mid_1 58.5, y_mid_1 25, x_mid_2 58.5, y_mid_2 28, x_end_1 57, y_end_1 25, x_end_2 57, y_end_2 28
+
+
+Node: 110
+Right Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 63, y_srt_2 25, x_mid_1 60, y_mid_1 26.5, x_mid_2 63, y_mid_2 26.5, x_end_1 60, y_end_1 28, x_end_2 63, y_end_2 28
+Top Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 60, y_srt_2 28, x_mid_1 61.5, y_mid_1 25, x_mid_2 61.5, y_mid_2 28, x_end_1 63, y_end_1 25, x_end_2 63, y_end_2 28
+
+
+Node: 111
+Right Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 57, y_srt_2 25, x_mid_1 60, y_mid_1 23.5, x_mid_2 57, y_mid_2 23.5, x_end_1 60, y_end_1 22, x_end_2 57, y_end_2 22
+Top Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 60, y_srt_2 22, x_mid_1 58.5, y_mid_1 25, x_mid_2 58.5, y_mid_2 22, x_end_1 57, y_end_1 25, x_end_2 57, y_end_2 22
+
+
+Node: 112
+Right Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 63, y_srt_2 25, x_mid_1 60, y_mid_1 23.5, x_mid_2 63, y_mid_2 23.5, x_end_1 60, y_end_1 22, x_end_2 63, y_end_2 22
+Top Rd Type: Within, x_srt_1 60, y_srt_1 25, x_srt_2 60, y_srt_2 22, x_mid_1 61.5, y_mid_1 25, x_mid_2 61.5, y_mid_2 22, x_end_1 63, y_end_1 25, x_end_2 63, y_end_2 22
+
+
+Node: 113, Type: Exiting, x_srt_1 57, y_srt_1 25, x_srt_2 55, y_srt_2 25, x_mid_1 57, y_mid_1 23.5, x_mid_2 55, y_mid_2 23.5, x_end_1 57, y_end_1 22, x_end_2 55, y_end_2 22
+
+
+Node: 114, Type: At, x_srt_1 57, y_srt_1 25, x_srt_2 55, y_srt_2 25, x_mid_1 57, y_mid_1 26.5, x_mid_2 55, y_mid_2 26.5, x_end_1 57, y_end_1 28, x_end_2 55, y_end_2 28
+
+
+Node: 115, Type: At, x_srt_1 60, y_srt_1 22, x_srt_2 60, y_srt_2 20, x_mid_1 58.5, y_mid_1 22, x_mid_2 58.5, y_mid_2 20, x_end_1 57, y_end_1 22, x_end_2 57, y_end_2 20
+
+
+Node: 116, Type: Exiting, x_srt_1 60, y_srt_1 22, x_srt_2 60, y_srt_2 20, x_mid_1 61.5, y_mid_1 22, x_mid_2 61.5, y_mid_2 20, x_end_1 63, y_end_1 22, x_end_2 63, y_end_2 20

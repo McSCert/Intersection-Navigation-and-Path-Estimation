@@ -1,0 +1,64 @@
+simulation_name,['MarcCity.mat']
+%% General Model Parameters
+% Simulation sample time  (s)
+Ts, 0.01
+% Number of vehicles (#)          
+total_vehicles, 2
+%The vehicle identification numbers (#)
+vid, [1 2]
+% Vehicle to show within the simulation (index)      
+index_show_car, 1
+% time gap               (s)
+time_gap, 1.5
+% default spacing        (m)
+default_spacing, 10 
+% Maximum acceleration   (m/s^2)   
+max_ac, 2 
+% Minimum acceleration   (m/s^2)  
+min_ac, -3
+% Maximum steering       (rad)
+max_steer, 0.26  
+% Minimum steering       (rad) 
+min_steer, -0.26
+% Prediction horizon  
+PredictionHorizon, 30  
+
+% Initial condition for the ego car in ISO 8855 coordinates
+
+% Initial speed of the ego car(m/s)
+v0,[0 0] 
+% Initial x position of ego car (m)
+x0,[18 7.5]
+% Initial y position of ego car (m)
+y0,[21.5 37.5] 
+% Initial yaw angle of ego car (rad)
+yaw0,[(0) (0)] 
+L_yaw, 1.9
+% Convert ISO 8855 to SAE J670E coordinates
+%y0_ego = -y0_ego;
+%yaw0_ego = -yaw0_ego;
+
+% Define a simulation stop time
+simStopTime, 30
+
+%% Dynamics modeling parameters
+
+% 2000 Total mass of vehicle (kg)
+m, [1000 1000]
+%2875 4000 Yaw moment of inertia of vehicle (m*N*s^2)
+Iz, [2875 2875]
+% Longitudinal distance from c.g. to front tires (m)   
+lf, [1.1 1.1]    
+% Longitudinal distance from c.g. to rear tires (m)
+lr, [1.4 1.4]   
+%19000 12000 22000 Cornering stiffness of front tires (N/rad)   
+Cf, [22000 22000]
+%33000 11000 22000 Cornering stiffness of rear tires (N/rad)
+Cr, [22000 22000]
+% time constant for longitudinal dynamics 1/s/(tau*s+1)
+tau, [Ts Ts]
+
+%Vehicle Source Nodes and Destination Nodes (Node ID)
+vehicle_nodes, {[19 114];[71 5]};
+vehicle_speed_limit, [8 8]
+vehicle_turn_speed_limit, [4 4]

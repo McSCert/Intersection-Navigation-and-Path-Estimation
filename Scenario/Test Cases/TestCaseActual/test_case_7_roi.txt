@@ -1,0 +1,54 @@
+Node: 1
+Right Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 0, y_srt_2 10, x_mid_1 3, y_mid_1 11.5, x_mid_2 0, y_mid_2 11.5, x_end_1 3, y_end_1 13, x_end_2 0, y_end_2 13
+Top Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 3, y_srt_2 13, x_mid_1 1.5, y_mid_1 10, x_mid_2 1.5, y_mid_2 13, x_end_1 0, y_end_1 10, x_end_2 0, y_end_2 13
+
+
+Node: 2
+Right Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 6, y_srt_2 10, x_mid_1 3, y_mid_1 11.5, x_mid_2 6, y_mid_2 11.5, x_end_1 3, y_end_1 13, x_end_2 6, y_end_2 13
+Top Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 3, y_srt_2 13, x_mid_1 4.5, y_mid_1 10, x_mid_2 4.5, y_mid_2 13, x_end_1 6, y_end_1 10, x_end_2 6, y_end_2 13
+
+
+Node: 3
+Right Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 0, y_srt_2 10, x_mid_1 3, y_mid_1 8.5, x_mid_2 0, y_mid_2 8.5, x_end_1 3, y_end_1 7, x_end_2 0, y_end_2 7
+Top Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 3, y_srt_2 7, x_mid_1 1.5, y_mid_1 10, x_mid_2 1.5, y_mid_2 7, x_end_1 0, y_end_1 10, x_end_2 0, y_end_2 7
+
+
+Node: 4
+Right Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 6, y_srt_2 10, x_mid_1 3, y_mid_1 8.5, x_mid_2 6, y_mid_2 8.5, x_end_1 3, y_end_1 7, x_end_2 6, y_end_2 7
+Top Rd Type: Within, x_srt_1 3, y_srt_1 10, x_srt_2 3, y_srt_2 7, x_mid_1 4.5, y_mid_1 10, x_mid_2 4.5, y_mid_2 7, x_end_1 6, y_end_1 10, x_end_2 6, y_end_2 7
+
+
+Node: 5, Type: At, x_srt_1 6, y_srt_1 10, x_srt_2 8, y_srt_2 10, x_mid_1 6, y_mid_1 8.5, x_mid_2 8, y_mid_2 8.5, x_end_1 6, y_end_1 7, x_end_2 8, y_end_2 7
+
+
+Node: 6, Type: Exiting, x_srt_1 6, y_srt_1 10, x_srt_2 8, y_srt_2 10, x_mid_1 6, y_mid_1 11.5, x_mid_2 8, y_mid_2 11.5, x_end_1 6, y_end_1 13, x_end_2 8, y_end_2 13
+
+
+Node: 7, Type: Exiting, x_srt_1 3, y_srt_1 13, x_srt_2 3, y_srt_2 15, x_mid_1 1.5, y_mid_1 13, x_mid_2 1.5, y_mid_2 15, x_end_1 0, y_end_1 13, x_end_2 0, y_end_2 15
+
+
+Node: 8, Type: At, x_srt_1 3, y_srt_1 13, x_srt_2 3, y_srt_2 15, x_mid_1 4.5, y_mid_1 13, x_mid_2 4.5, y_mid_2 15, x_end_1 6, y_end_1 13, x_end_2 6, y_end_2 15
+
+
+Node: 9, Type: At, x_srt_1 3, y_srt_1 7, x_srt_2 3, y_srt_2 5, x_mid_1 1.5, y_mid_1 7, x_mid_2 1.5, y_mid_2 5, x_end_1 0, y_end_1 7, x_end_2 0, y_end_2 5
+
+
+Node: 10, Type: Exiting, x_srt_1 3, y_srt_1 7, x_srt_2 3, y_srt_2 5, x_mid_1 4.5, y_mid_1 7, x_mid_2 4.5, y_mid_2 5, x_end_1 6, y_end_1 7, x_end_2 6, y_end_2 5
+
+
+Node: 11, Type: EndOfRoad, x_srt_1 20, y_srt_1 10, x_srt_2 20, y_srt_2 10, x_mid_1 20, y_mid_1 8.5, x_mid_2 20, y_mid_2 8.5, x_end_1 20, y_end_1 7, x_end_2 20, y_end_2 7
+
+
+Node: 12, Type: EndOfRoad, x_srt_1 20, y_srt_1 10, x_srt_2 20, y_srt_2 10, x_mid_1 20, y_mid_1 11.5, x_mid_2 20, y_mid_2 11.5, x_end_1 20, y_end_1 13, x_end_2 20, y_end_2 13
+
+
+Node: 13, Type: EndOfRoad, x_srt_1 3, y_srt_1 0, x_srt_2 3, y_srt_2 0, x_mid_1 1.5, y_mid_1 0, x_mid_2 1.5, y_mid_2 0, x_end_1 0, y_end_1 0, x_end_2 0, y_end_2 0
+
+
+Node: 14, Type: EndOfRoad, x_srt_1 3, y_srt_1 0, x_srt_2 3, y_srt_2 0, x_mid_1 4.5, y_mid_1 0, x_mid_2 4.5, y_mid_2 0, x_end_1 6, y_end_1 0, x_end_2 6, y_end_2 0
+
+
+Node: 15, Type: EndOfRoad, x_srt_1 3, y_srt_1 20, x_srt_2 3, y_srt_2 20, x_mid_1 4.5, y_mid_1 20, x_mid_2 4.5, y_mid_2 20, x_end_1 6, y_end_1 20, x_end_2 6, y_end_2 20
+
+
+Node: 16, Type: EndOfRoad, x_srt_1 3, y_srt_1 20, x_srt_2 3, y_srt_2 20, x_mid_1 1.5, y_mid_1 20, x_mid_2 1.5, y_mid_2 20, x_end_1 0, y_end_1 20, x_end_2 0, y_end_2 20
