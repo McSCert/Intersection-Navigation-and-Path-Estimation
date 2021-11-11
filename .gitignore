@@ -1,0 +1,17 @@
+*.slxc
+*.toc
+*.loc
+*.blg
+*.lof
+*.run.xml
+*.soc
+*.aux
+*.bbl
+*.lot
+*.log
+*.out
+*.synctex.gz
+*Thesis-blx.bib
+*.slxc
+*.mexa64
+SimulationModel_grt_rtw/*
